@@ -42,6 +42,3 @@ To execute these queries, load the dataset into a PostgreSQL-compatible database
 ## Contribution
 Feel free to contribute by improving queries, optimizing performance, or adding new insights.
 
-## License
-This project is open-source and available under the MIT License.
-
